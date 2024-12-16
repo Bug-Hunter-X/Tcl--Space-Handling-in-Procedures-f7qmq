@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl related to handling spaces within command arguments passed to procedures. The `bug.tcl` file showcases the issue, while `bugSolution.tcl` presents the corrected code.
